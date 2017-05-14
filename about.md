@@ -7,6 +7,6 @@ Halo! Perkenalkanlah, kami para alumnus SMU Negeri 1 Cilacap angkatan tahun 2003
 
 Informasi lebih lanjut bisa kirim email ke
 
-## admin@duaributi.ga
+`## admin@duaributi.ga`
 
 Semoga bermanfaat!
