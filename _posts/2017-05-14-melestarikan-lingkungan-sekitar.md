@@ -25,4 +25,4 @@ Demikianlah cara sederhana kita dalam melestarikan lingkungan atau merawat bumi 
 Sumber: riset penelitian Tzu Chi
 
 Sekali lagi kita bisa mencegahnya dengan cara yang sederhana, belajar daur ulang sampah, jadikan sampah menjadi uang, gunakan wadah yang ramah lingkungan dalam belanja, dan yang paling penting perubahan itu tergantung pada kita sendiri.
-Lakukanlah ini **untuk bumi pertiwi dan generasi berkutnya**
+Lakukanlah ini **untuk bumi pertiwi dan generasi berkutnya**.
