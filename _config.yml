@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Alumni SMUNIC 2003
-tagline:          'SMUNIC 2003'
+tagline:          'Masalalu bukanlah kenangan tetapi guru terbaik'
 description:      'Website alumnus SMUNIC angkatan tahun 2003.'
-url:              https://smunic2003.github.io/web/
+url:              http://smunicduaributi.ga
 baseurl:          '/web/'
 
 author:
   name:           'Oki Dwi Yulianto'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/okidwiyulianto
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/smunic2003/web.git
