@@ -1,0 +1,12 @@
+---
+layout: post
+title: Menjalin Silaturahmi Di Group WhatsApp
+---
+
+Perkembangan teknologi sudah tidak dapat kita pungkiri lagi. Berkembang maju dengan pesat. Saat ini pesan lintas platform WhatsApp sedang populer di Indonesia. Karena kemudahannya dalam menginvite seseorang, yaitu hanya dengan mengetahui nomor orang tersebut, maka, secara otomatis akan terhubung dengan orang yang juga memasang perangkat WhatsApp tersebut. Selain itu, kemampuan mampu menampung banyak anggota dan kirim media dalam jumlah yang besar menjadi pilihan banyak orang untuk memilih WhatSapp sebagai tempat perkumpulan `nongkrong` para alumnus. 
+
+Hari Kamis Legi, tanggal 20 Agustus 2015,[Oki](https://okidwiyulianto.com) (salah satu alumnus) membuat group WhatsApp untuk alumnus SMUNIC angkatan tahun 2003. Tujuannya hanyalah untuk menjalin kembali silaturahmi melalui media pesan lintas tersebut. Dengan adanya group alumnus di WhatsApp, maka yang jauh menjadi dekat, yang dekat menjadi tambah dekat. Yang tidak kenal menjadi kenal, yang sudah kenal menjadi tambah akrab. Cara yang dilakukan untuk mengumpulkan teman-teman di group WhatSapp sangat unik. Caranya adalah dengan mengirimkan pesan satu per satu di media sosial [Facebook](https://www.facebook.com/okidwiyulianto). Ditanyakan apakah berkenan untuk bergabung atau tidak. 
+
+Kita menyadari bahwa pribadi setiap orang tidaklah sama, ada yang berbeda pendapat, dan ada yang sependapat, ada yang unik, kalem, `silent reader`, bahkan ada yang cerewet, itu semuanya adalah **HAL YANG WAJAR**. Keragaman atau ke-_Bhineka Tunggal Ika_ inilah yang seharusnya dijadikan sebagai `rahmatalil alamin` (rahmat bagi semua). Jika kita mampu **menerima perbedaan** dan **belajar darinya**, maka kita akan lebih mudah menghadapi kesulitan atau masalah di dunia ini. Namun sebaliknya, jika ke _Aku-an_ atau ke _Ego-an_ nya masih tinggi, masih ingin hidup sendiri-sendiri, mementingkan dirinya sendiri maka sudah dipastikan akan sulit dalam menghadapi kesulitan atau keanekaragaman dinamika hidup di dunia.
+
+Harapan besarnya adalah menjalin silaturahmi sampai akhir hayat. Sehingga ini semua bisa dibaca dan diikuti oleh anak dan cucu serta generasi kita. Ambilah yang baik, yang tidak baik jangan diambil dan jangan diikuti. Kami dari para alumnus mengharapkan semoga hubungan silaturahmi alumni SMU Negeri 1 Cilacap angkatan tahun 2003 dapat langgeng, membawa berkah, dan rejeki tersendiri bagi masing-masing alumnus. 
