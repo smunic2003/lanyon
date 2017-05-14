@@ -10,7 +10,7 @@ title:            Alumni SMUNIC 2003
 tagline:          'SMUNIC 2003'
 description:      'Website alumnus SMUNIC angkatan tahun 2003.'
 url:              https://smunic2003.github.io/web/
-baseurl:          '/web'
+baseurl:          '/web/'
 
 author:
   name:           'Oki Dwi Yulianto'
