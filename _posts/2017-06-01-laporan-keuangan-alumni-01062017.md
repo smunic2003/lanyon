@@ -9,7 +9,7 @@ Sebelum laporan keuangan, kami dari alumni mengucapkan selamat hari lahir atau h
 1. Ketuhanan Yang Maha Esa.
 2. Kemanusiaan Yang Adil Dan Beradab.
 3. Persatuan Indonesia.
-4. Kerakyataan Yang Dipimpin Oleh Hikmat Dan Kebijaksanaan Dalam Permusyawaratan Perwakilan.
+4. Kerakyataan Yang Dipimpin Oleh Hikmat Kebijaksanaan Dalam Permusyawaratan/Perwakilan.
 5. Keadilan Sosial Bagi Seluruh Rakyat Indonesia.
 
 |Saldo Kas     |
