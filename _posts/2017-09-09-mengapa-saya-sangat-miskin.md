@@ -13,11 +13,11 @@ PENGEMIS: "Saya tidak punya apa-apa untuk memberi."
 PETAPA: "Kamu punya banyak hal untuk memberi, tidak kurang sedikitpun."
 
 PETAPA: 
-  - WAJAH: Kamu bisa tersenyum, santai, ceria, dan bahagia.
-  - MULUT: Kamu bisa berbicara hal-hal yang baik, memotivasi orang-orang agar mereka ceria, bahagia dan nyaman.
-  - HATI: Kamu bisa membuka hatimu kepada orang lain dengan tulus, jujur, dan baik.
-  - MATA: Kamu bisa melihat orang lain dengan kebaikan dan kasih sayang.
-  - TUBUH: Kamu bisa menggunakan tenagamu untuk membantu dan menolong orang lain.
+  - WAJAH: Kamu bisa menggunakan wajahmu untuk tersenyum, santai, ceria, dan bahagia.
+  - MULUT: Kamu bisa menggunakan mulutmu untuk berbicara hal-hal yang baik, memotivasi orang-orang agar mereka ceria, bahagia dan nyaman.
+  - HATI: Kamu bisa menggunakan hatimu untuk membuka hati kepada orang lain dengan tulus, jujur, dan baik.
+  - MATA: Kamu bisa menggunakan matamu untuk melihat orang lain dengan kebaikan dan kasih sayang.
+  - TUBUH: Kamu bisa menggunakan tubuhmu untuk kerja menolong orang lain.
 
 Nah, lihat... Kamu tidak miskin sedikitpun kan?
 
