@@ -18,6 +18,7 @@ PETAPA:
   - HATI: Kamu dapat membuka hatimu kepada orang lain dengan tulus, jujur, dan baik.
   - MATA: Kamu dapat melihat orang lain dengan kebaikan dan kasih sayang.
   - TUBUH: Kamu dapat menggunakan tenagamu untuk membantu dan menolong orang lain.
-Nah, paham kan?! Kamu tidak miskin sedikitpun.
+
+Nah, lihat kan?! Kamu tidak miskin sedikitpun.
 
 Kemiskinan di hati kita adalah kemiskinan yang sesungguhnya.
