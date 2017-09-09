@@ -7,4 +7,4 @@ Halo! Perkenalkanlah, kami para alumnus SMU Negeri 1 Cilacap angkatan tahun 2003
 
 Informasi lebih lanjut bisa kirim email ke
 
-## admin@duaributi.ga atau admin@okidwiyulianto.com [WhatsApp: +1(315)740-2681]
+## admin@duaributi.ga [WhatsApp: +1(315)740-2681]
