@@ -15,10 +15,10 @@ PETAPA: "Kamu punya banyak hal untuk memberi, tidak kurang sedikitpun."
 PETAPA: 
   - WAJAH: Kamu bisa tersenyum, santai, ceria, dan bahagia.
   - MULUT: Kamu bisa berbicara hal-hal yang baik, memotivasi orang-orang agar mereka ceria, bahagia dan nyaman.
-  - HATI: Kamu dapat membuka hatimu kepada orang lain dengan tulus, jujur, dan baik.
-  - MATA: Kamu dapat melihat orang lain dengan kebaikan dan kasih sayang.
-  - TUBUH: Kamu dapat menggunakan tenagamu untuk membantu dan menolong orang lain.
+  - HATI: Kamu bisa membuka hatimu kepada orang lain dengan tulus, jujur, dan baik.
+  - MATA: Kamu bisa melihat orang lain dengan kebaikan dan kasih sayang.
+  - TUBUH: Kamu bisa menggunakan tenagamu untuk membantu dan menolong orang lain.
 
-Nah, lihat kan?! Kamu tidak miskin sedikitpun.
+Nah, lihat... Kamu tidak miskin sedikitpun kan?
 
 Kemiskinan di hati kita adalah kemiskinan yang sesungguhnya.
